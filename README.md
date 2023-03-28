@@ -1,4 +1,4 @@
-# Data_Analize_Task
+# Data_Analyse_Task
 
  	Task 1: 
   A medical experiment is conducted with participation of patients suffering from Hepatitis B virus. 5 patients have been given a medicine against the virus and then a liver parameters' analysis is conducted to check the effect of the medicine. Before taking the medicine, each patient passes a full check-up, which includes also liver parameters' analysis. The first pre-dose (i.e. before the medicine is taken) day is defined as Baseline, the other days are numerated/denoted accordingly - Day 3, Day 10, Day 17 and Day 27. Thus, the laboratory provides you with longitudinal data for each patient: liver parameters' data for the Baseline and 4 other days. We concentrate only on 1 parameter, called Albumin, and analyze the results for the above mentioned 5 time periods.
